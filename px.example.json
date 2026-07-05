@@ -1,0 +1,6 @@
+{
+  "xray_path": "/usr/local/bin/xray",
+  "sing_box_path": "/usr/local/bin/sing-box",
+  "probe_url": "https://www.gstatic.com/generate_204",
+  "timeout": "15s"
+}

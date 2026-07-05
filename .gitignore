@@ -1,0 +1,17 @@
+# Local configuration
+px.json
+
+# Build artifacts
+/PX
+/px
+bin/
+dist/
+
+# OS/editor files
+.DS_Store
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+tmp/

@@ -7,7 +7,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/suzhc/px-health/internal/check"
+	"github.com/suzhc/proxy-tools/internal/check"
 	"golang.org/x/term"
 )
 

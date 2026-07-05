@@ -1,4 +1,4 @@
-module github.com/suzhc/px-health
+module github.com/suzhc/proxy-tools
 
 go 1.26
 

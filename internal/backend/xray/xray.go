@@ -14,8 +14,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/suzhc/px-health/internal/check"
-	"github.com/suzhc/px-health/internal/link"
+	"github.com/suzhc/proxy-tools/internal/check"
+	"github.com/suzhc/proxy-tools/internal/link"
 )
 
 type Options struct {

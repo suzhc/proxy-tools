@@ -9,11 +9,11 @@ import (
 	"os"
 	"time"
 
-	"github.com/suzhc/px-health/internal/backend/xray"
-	"github.com/suzhc/px-health/internal/check"
-	"github.com/suzhc/px-health/internal/config"
-	"github.com/suzhc/px-health/internal/link"
-	"github.com/suzhc/px-health/internal/output"
+	"github.com/suzhc/proxy-tools/internal/backend/xray"
+	"github.com/suzhc/proxy-tools/internal/check"
+	"github.com/suzhc/proxy-tools/internal/config"
+	"github.com/suzhc/proxy-tools/internal/link"
+	"github.com/suzhc/proxy-tools/internal/output"
 )
 
 const defaultProbeURL = "https://www.gstatic.com/generate_204"

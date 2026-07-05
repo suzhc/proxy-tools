@@ -3,7 +3,7 @@ package check
 import (
 	"time"
 
-	"github.com/suzhc/px-health/internal/link"
+	"github.com/suzhc/proxy-tools/internal/link"
 )
 
 const (
